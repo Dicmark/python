@@ -1,0 +1,5 @@
+Pedir 3 valores enteros por consola, guardarlos en una variable y luego hacer los siguientes calculos
+calculo1: La suma del valor 1 con el valor 3
+calculo2: La division del calculo1 con el valor 2
+
+Imprimir ambos resultados y el tipo de dato correspondiente a cada calculo
